@@ -1,28 +1,28 @@
 const ScreenshotsSection = () => {
   const screenshots = [
     {
-      url: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
-      title: "Исследовательские лаборатории",
+      url: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+      title: "Modern Warfare",
     },
     {
-      url: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
-      title: "Научный комплекс",
+      url: "https://images.unsplash.com/photo-1526661934754-12c11d4b0ebc?w=800",
+      title: "Warzone Battle Royale",
     },
     {
-      url: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
-      title: "Подземные тоннели",
+      url: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+      title: "Black Ops",
     },
     {
-      url: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
-      title: "Мир Xen",
+      url: "https://images.unsplash.com/photo-1526661934754-12c11d4b0ebc?w=800",
+      title: "Кампания WWII",
     },
     {
-      url: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
-      title: "Боевые сцены",
+      url: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+      title: "Мультиплеер",
     },
     {
-      url: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
-      title: "Атмосферные локации",
+      url: "https://images.unsplash.com/photo-1526661934754-12c11d4b0ebc?w=800",
+      title: "Спецоперации",
     },
   ];
 
@@ -34,7 +34,7 @@ const ScreenshotsSection = () => {
             Скриншоты
           </h2>
           <p className="text-xl text-gray-300">
-            Погрузитесь в атмосферу исследовательского комплекса Чёрная Меза
+            Погрузитесь в эпические сражения Call of Duty
           </p>
         </div>
 
